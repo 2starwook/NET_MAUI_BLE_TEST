@@ -1,4 +1,4 @@
-﻿using Object.Frontend;
+﻿using NET_MAUI_BLE.Object.View;
 
 namespace UniteTestProject;
 

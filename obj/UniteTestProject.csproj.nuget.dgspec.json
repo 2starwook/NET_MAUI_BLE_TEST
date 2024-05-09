@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "/Users/2star/Project/git/UniteTestProject/UniteTestProject.csproj": {}
+    "/Users/2star/Project/git/NET_MAUI_BLE_TEST/UniteTestProject.csproj": {}
   },
   "projects": {
     "/Users/2star/Project/git/NET-MAUI-BLE/NET-MAUI-BLE.csproj": {
@@ -103,17 +103,25 @@
               "target": "Package",
               "version": "[2.23.1, )"
             },
-            "Plugin.BLE": {
+            "NAudio": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[2.2.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             },
             "Plugin.Maui.Audio": {
               "target": "Package",
               "version": "[2.1.0, )"
             },
+            "Realm": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
             "SkiaSharp": {
               "target": "Package",
-              "version": "[2.88.7, )"
+              "version": "[2.88.8, )"
             }
           },
           "imports": [
@@ -141,7 +149,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.314/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.315/RuntimeIdentifierGraph.json"
         },
         "net7.0-android33.0": {
           "targetAlias": "net7.0-android",
@@ -190,17 +198,25 @@
               "target": "Package",
               "version": "[2.23.1, )"
             },
-            "Plugin.BLE": {
+            "NAudio": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[2.2.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             },
             "Plugin.Maui.Audio": {
               "target": "Package",
               "version": "[2.1.0, )"
             },
+            "Realm": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
             "SkiaSharp": {
               "target": "Package",
-              "version": "[2.88.7, )"
+              "version": "[2.88.8, )"
             },
             "Xamarin.Android.Glide": {
               "target": "Package",
@@ -286,7 +302,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.314/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.315/RuntimeIdentifierGraph.json"
         },
         "net7.0-ios16.1": {
           "targetAlias": "net7.0-ios",
@@ -335,17 +351,25 @@
               "target": "Package",
               "version": "[2.23.1, )"
             },
-            "Plugin.BLE": {
+            "NAudio": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[2.2.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             },
             "Plugin.Maui.Audio": {
               "target": "Package",
               "version": "[2.1.0, )"
             },
+            "Realm": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
             "SkiaSharp": {
               "target": "Package",
-              "version": "[2.88.7, )"
+              "version": "[2.88.8, )"
             }
           },
           "imports": [
@@ -376,7 +400,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.314/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.315/RuntimeIdentifierGraph.json"
         },
         "net7.0-maccatalyst16.1": {
           "targetAlias": "net7.0-maccatalyst",
@@ -425,17 +449,25 @@
               "target": "Package",
               "version": "[2.23.1, )"
             },
-            "Plugin.BLE": {
+            "NAudio": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[2.2.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             },
             "Plugin.Maui.Audio": {
               "target": "Package",
               "version": "[2.1.0, )"
             },
+            "Realm": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
             "SkiaSharp": {
               "target": "Package",
-              "version": "[2.88.7, )"
+              "version": "[2.88.8, )"
             }
           },
           "imports": [
@@ -467,7 +499,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.314/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.315/RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -491,14 +523,14 @@
         }
       }
     },
-    "/Users/2star/Project/git/UniteTestProject/UniteTestProject.csproj": {
+    "/Users/2star/Project/git/NET_MAUI_BLE_TEST/UniteTestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/2star/Project/git/UniteTestProject/UniteTestProject.csproj",
+        "projectUniqueName": "/Users/2star/Project/git/NET_MAUI_BLE_TEST/UniteTestProject.csproj",
         "projectName": "UniteTestProject",
-        "projectPath": "/Users/2star/Project/git/UniteTestProject/UniteTestProject.csproj",
+        "projectPath": "/Users/2star/Project/git/NET_MAUI_BLE_TEST/UniteTestProject.csproj",
         "packagesPath": "/Users/2star/.nuget/packages/",
-        "outputPath": "/Users/2star/Project/git/UniteTestProject/obj/",
+        "outputPath": "/Users/2star/Project/git/NET_MAUI_BLE_TEST/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/2star/.nuget/NuGet/NuGet.Config"
@@ -604,7 +636,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.314/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.315/RuntimeIdentifierGraph.json"
         }
       }
     }
